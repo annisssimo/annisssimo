@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annisssimo
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React & TypeScript
 - 📫 How to reach me: anyalar04@gmail.com
 
 <!---
